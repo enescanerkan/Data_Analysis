@@ -58,14 +58,14 @@ Categorized employees by status (Full-Time or Part-Time) and analyzed their resp
 
 ## How to Use This Project
 Clone the repository:
-'''
-git clone (https://github.com/enescanerkan/Data_Analysis)
-'''
+```python
+git clone https://github.com/enescanerkan/Data_Analysis
+```
 
 ## Install the required Python libraries:
-'''
+```python
 pip install pandas numpy matplotlib seaborn
-'''
+```
 
 ## Open the Jupyter Notebook and run the cells step by step:
 (Jupyter Notebook'u açın ve hücreleri adım adım çalıştırın.)
