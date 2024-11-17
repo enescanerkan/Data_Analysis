@@ -58,7 +58,7 @@ Categorized employees by status (Full-Time or Part-Time) and analyzed their resp
 
 ## How to Use This Project
 Clone the repository:
-git clone [repository-url](https://github.com/enescanerkan/Data_Analysis)
+git clone (https://github.com/enescanerkan/Data_Analysis)
 
 ## Install the required Python libraries:
 pip install pandas numpy matplotlib seaborn
